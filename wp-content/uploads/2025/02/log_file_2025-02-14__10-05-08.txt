@@ -1,0 +1,78 @@
+
+---Downloaded files---
+The import files for: Cleener were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://hitofficial.com
+Data file = /home/u101015616/domains/hitofficial.com/public_html/wp-content/uploads/2025/02/demo-content-import-file_2025-02-14__10-05-08.xml
+Widget file = /home/u101015616/domains/hitofficial.com/public_html/wp-content/uploads/2025/02/demo-widgets-import-file_2025-02-14__10-05-08.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "shower" (Media)
+[ERROR] Failed to import "bathroom" (Media)
+[ERROR] Failed to import "carpet" (Media)
+[ERROR] Failed to import "chair" (Media)
+[ERROR] Failed to import "computer" (Media)
+[ERROR] Failed to import "express-delivery" (Media)
+[ERROR] Failed to import "cutlery" (Media)
+[ERROR] Failed to import "window" (Media)
+[ERROR] Failed to import "glass" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "footer-logo" (Media)
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Widget Area : 
+
+Search - Search - Imported
+Categories - Categories - Imported
+Cleener: Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+
+Footer Widget 1 : 
+
+Cleener: Text Widget - No Title - Imported
+
+Footer Widget 2 : 
+
+Cleener: Navigation - Quick Link - Imported
+
+Footer Widget 3 : 
+
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+Footer Widget 4 : 
+
+Cleener: Navigation - Our Services - Imported
+
+service-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Cleener: Navigation - All Services - Imported to Inactive
+Cleener: Text Widget - No Title - Imported to Inactive
+
+
+
+------
+Codestar Framework files loaded.
+
+---ocdi/after_import---
+

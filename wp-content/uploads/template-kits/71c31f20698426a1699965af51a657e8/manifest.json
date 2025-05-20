@@ -1,0 +1,1273 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "DigitalPrime - Template kit for digital agency",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Portfolio",
+            "screenshot": "screenshots\/single-portfolio.jpg",
+            "source": "templates\/single-portfolio.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/template-kit\/single-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "DigitalPrime - Error 404",
+            "screenshot": "screenshots\/digitalprime-error-404.jpg",
+            "source": "templates\/digitalprime-error-404.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/?elementor_library=digitalprime-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "DigitalPrime - Single post",
+            "screenshot": "screenshots\/digitalprime-single-post.jpg",
+            "source": "templates\/digitalprime-single-post.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/?elementor_library=digitalprime-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "DigitalPrime - Archive Blog",
+            "screenshot": "screenshots\/digitalprime-archive-blog.jpg",
+            "source": "templates\/digitalprime-archive-blog.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/?elementor_library=digitalprime-archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "DigitalPrime - Footer",
+            "screenshot": "screenshots\/digitalprime-footer.jpg",
+            "source": "templates\/digitalprime-footer.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/?elementor_library=digitalprime-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "DigitalPrime - Header",
+            "screenshot": "screenshots\/digitalprime-header.jpg",
+            "source": "templates\/digitalprime-header.json",
+            "preview_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/?elementor_library=digitalprime-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.9.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.6",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.14.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "cheerful-businessmen-having-fun-while-using-laptop-in-a-cafe--e1689501076718.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/cheerful-businessmen-having-fun-while-using-laptop-in-a-cafe--e1689501076718-800x607.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 158278,
+            "dimensions": [
+                1280,
+                971
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y9BR8U2"
+        },
+        {
+            "filename": "abstract-background-sheets-of-paper-forming-a-pattern-of-curved-lines-.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/abstract-background-sheets-of-paper-forming-a-pattern-of-curved-lines--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/digitalprime-single-post.json",
+                    "name": "DigitalPrime - Single post"
+                },
+                {
+                    "source": "templates\/digitalprime-footer.json",
+                    "name": "DigitalPrime - Footer"
+                }
+            ],
+            "filesize": 101061,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-G2CWF4Y"
+        },
+        {
+            "filename": "logo_1.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/logo_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3871,
+            "dimensions": [
+                400,
+                125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_2.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/logo_2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4943,
+            "dimensions": [
+                400,
+                125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_3.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/logo_3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6013,
+            "dimensions": [
+                400,
+                125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_4.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/logo_4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5672,
+            "dimensions": [
+                400,
+                125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_5.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/logo_5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5302,
+            "dimensions": [
+                400,
+                125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_6.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/logo_6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4434,
+            "dimensions": [
+                400,
+                125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_7.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/logo_7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5731,
+            "dimensions": [
+                400,
+                125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_8.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/logo_8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5706,
+            "dimensions": [
+                400,
+                125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg_pattern_1.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/bg_pattern_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                },
+                {
+                    "source": "templates\/digitalprime-error-404.json",
+                    "name": "DigitalPrime - Error 404"
+                }
+            ],
+            "filesize": 687,
+            "dimensions": [
+                202,
+                202
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "forex-trader-using-crypto-exchange-mobile-phone-app-for-investment-and-stock-market-analysis.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/forex-trader-using-crypto-exchange-mobile-phone-app-for-investment-and-stock-market-analysis-800x412.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 100280,
+            "dimensions": [
+                1280,
+                660
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVKGH2A"
+        },
+        {
+            "filename": "laptop-statistics-diversity-partnership-and-people-review-media-analytics-feedback-data-or-resear.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/laptop-statistics-diversity-partnership-and-people-review-media-analytics-feedback-data-or-resear-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 119698,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FHYMG7M"
+        },
+        {
+            "filename": "african-in-marketing-corporate-office-working-to-finish-deadline.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/african-in-marketing-corporate-office-working-to-finish-deadline-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 118991,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZQJ4838"
+        },
+        {
+            "filename": "graphic-designers-working-at-desk.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/graphic-designers-working-at-desk-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 149440,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GWUU9BJ"
+        },
+        {
+            "filename": "happy-businessman-in-eyeglasses-looks-into-camera-and-smiles-sincerely-brunette-guy-in-black-jacke.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/happy-businessman-in-eyeglasses-looks-into-camera-and-smiles-sincerely-brunette-guy-in-black-jacke-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 175383,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9FKEYUN"
+        },
+        {
+            "filename": "13.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 25005,
+            "dimensions": [
+                376,
+                376
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "16.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/16.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 23472,
+            "dimensions": [
+                376,
+                376
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "2.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 18115,
+            "dimensions": [
+                378,
+                378
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "map_bg.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/map_bg-800x449.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 34831,
+            "dimensions": [
+                1080,
+                606
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "creative-agency-professional-employee-editing-movie-footage-using-specialized-software.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/creative-agency-professional-employee-editing-movie-footage-using-specialized-software-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 135333,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HMYD3U8"
+        },
+        {
+            "filename": "digital-tablet-mockup-1.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/digital-tablet-mockup-1-800x1152.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 158301,
+            "dimensions": [
+                1280,
+                1843
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-88YDX2Q"
+        },
+        {
+            "filename": "potter-entrepreneur-using-laptop-in-workshop-smiling.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/potter-entrepreneur-using-laptop-in-workshop-smiling-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 106151,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ER2HSC2"
+        },
+        {
+            "filename": "img_2.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/img_2.png",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 15929,
+            "dimensions": [
+                586,
+                283
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "digital-tablet-mockup.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/digital-tablet-mockup-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 136972,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-967A99B"
+        },
+        {
+            "filename": "programmer-using-binary-code-for-website-interface-development.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/programmer-using-binary-code-for-website-interface-development-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 92728,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X2RKTQA"
+        },
+        {
+            "filename": "ui-designer-working-on-website-interface.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/ui-designer-working-on-website-interface-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 139631,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YCVVPXQ"
+        },
+        {
+            "filename": "tablet-screen-mockup.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/tablet-screen-mockup-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 122479,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PYPYN5P"
+        },
+        {
+            "filename": "laptop-screen-mockup-1.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/laptop-screen-mockup-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 105004,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-698ADEF"
+        },
+        {
+            "filename": "website-design-wireframe-examples-of-web-and-mobile-wireframe-sketches-printable-.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/website-design-wireframe-examples-of-web-and-mobile-wireframe-sketches-printable--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 159403,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BGQ7863"
+        },
+        {
+            "filename": "Payment-Icon.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/Payment-Icon-800x133.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 29013,
+            "dimensions": [
+                1111,
+                185
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "multiethnic-group-of-3d-artists-developing-digital-interface-in-production-agency.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/multiethnic-group-of-3d-artists-developing-digital-interface-in-production-agency-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 137150,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z2JYPH3"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 20275,
+            "dimensions": [
+                378,
+                378
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "9.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 22542,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "15.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/15.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 18760,
+            "dimensions": [
+                376,
+                376
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "14.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 23324,
+            "dimensions": [
+                376,
+                376
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "multiracial-business-team-having-a-meeting-in-the-office.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/multiracial-business-team-having-a-meeting-in-the-office-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 123408,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R7FRB28"
+        },
+        {
+            "filename": "11.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 24397,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "10.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 24270,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "group-of-business-people-working-hard-late-with-her-technology-computer-in-office.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/group-of-business-people-working-hard-late-with-her-technology-computer-in-office-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 125436,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HUM9TL5"
+        },
+        {
+            "filename": "portrait-of-diverse-business-team-in-office.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/portrait-of-diverse-business-team-in-office-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 169387,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M49DP4L"
+        },
+        {
+            "filename": "bg_img.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/bg_img-800x3.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 281,
+            "dimensions": [
+                3000,
+                10
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shot-of-two-young-workers-using-a-digital-tablet-in-a-modern-office.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/shot-of-two-young-workers-using-a-digital-tablet-in-a-modern-office-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 109488,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-83P5TDV"
+        },
+        {
+            "filename": "woman-using-laptop.jpg",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/woman-using-laptop-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/digitalprime-archive-blog.json",
+                    "name": "DigitalPrime - Archive Blog"
+                }
+            ],
+            "filesize": 96557,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XRKL9WE"
+        },
+        {
+            "filename": "logo_digitalprime.png",
+            "thumbnail_url": "https:\/\/kitdemo.moxcreative.com\/digitalprime\/wp-content\/uploads\/sites\/4\/2023\/07\/logo_digitalprime.png",
+            "templates": [
+                {
+                    "source": "templates\/digitalprime-footer.json",
+                    "name": "DigitalPrime - Footer"
+                },
+                {
+                    "source": "templates\/digitalprime-header.json",
+                    "name": "DigitalPrime - Header"
+                }
+            ],
+            "filesize": 6801,
+            "dimensions": [
+                506,
+                106
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

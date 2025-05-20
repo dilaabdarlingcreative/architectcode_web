@@ -1,0 +1,301 @@
+[2025-05-15 20:28:37][notice]Start restoring themes.
+[2025-05-15 20:28:37][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip
+[2025-05-15 20:28:37][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip succeeded.
+[2025-05-15 20:28:37][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_themes.zip index:0
+[2025-05-15 20:28:37][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_themes.zip index:0 finished.
+[2025-05-15 20:28:37][notice]End restore themes.
+[2025-05-15 20:28:39][notice]Start restoring plugin.
+[2025-05-15 20:28:39][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip
+[2025-05-15 20:28:40][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip succeeded.
+[2025-05-15 20:28:40][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:0
+[2025-05-15 20:28:40][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:0 finished.
+[2025-05-15 20:28:40][notice]End restore plugin.
+[2025-05-15 20:28:42][notice]Start restoring plugin.
+[2025-05-15 20:28:42][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:1000
+[2025-05-15 20:28:43][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:1000 finished.
+[2025-05-15 20:28:43][notice]End restore plugin.
+[2025-05-15 20:28:45][notice]Start restoring plugin.
+[2025-05-15 20:28:45][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:2000
+[2025-05-15 20:28:46][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:2000 finished.
+[2025-05-15 20:28:46][notice]End restore plugin.
+[2025-05-15 20:28:47][notice]Start restoring plugin.
+[2025-05-15 20:28:47][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:3000
+[2025-05-15 20:28:48][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:3000 finished.
+[2025-05-15 20:28:48][notice]End restore plugin.
+[2025-05-15 20:28:50][notice]Start restoring plugin.
+[2025-05-15 20:28:50][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:4000
+[2025-05-15 20:28:51][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:4000 finished.
+[2025-05-15 20:28:51][notice]End restore plugin.
+[2025-05-15 20:28:53][notice]Start restoring plugin.
+[2025-05-15 20:28:53][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:5000
+[2025-05-15 20:28:54][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_plugin.zip index:5000 finished.
+[2025-05-15 20:28:54][notice]End restore plugin.
+[2025-05-15 20:28:55][notice]Start restoring wp-content.
+[2025-05-15 20:28:55][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip
+[2025-05-15 20:28:55][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip succeeded.
+[2025-05-15 20:28:55][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_content.zip index:0
+[2025-05-15 20:28:56][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_content.zip index:0 finished.
+[2025-05-15 20:28:56][notice]End restore wp-content.
+[2025-05-15 20:28:58][notice]Start restoring upload.
+[2025-05-15 20:28:58][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip
+[2025-05-15 20:29:00][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip succeeded.
+[2025-05-15 20:29:00][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_uploads.part001.zip index:0
+[2025-05-15 20:29:01][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_uploads.part001.zip index:0 finished.
+[2025-05-15 20:29:01][notice]End restore upload.
+[2025-05-15 20:29:07][notice]Start restoring upload.
+[2025-05-15 20:29:07][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip
+[2025-05-15 20:29:09][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip succeeded.
+[2025-05-15 20:29:09][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_uploads.part002.zip index:0
+[2025-05-15 20:29:11][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_uploads.part002.zip index:0 finished.
+[2025-05-15 20:29:11][notice]End restore upload.
+[2025-05-15 20:29:13][notice]Start restoring upload.
+[2025-05-15 20:29:13][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_uploads.part002.zip index:1000
+[2025-05-15 20:29:13][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_uploads.part002.zip index:1000 finished.
+[2025-05-15 20:29:13][notice]End restore upload.
+[2025-05-15 20:29:16][notice]Start restoring upload.
+[2025-05-15 20:29:16][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip
+[2025-05-15 20:29:16][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip succeeded.
+[2025-05-15 20:29:16][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_uploads.part003.zip index:0
+[2025-05-15 20:29:16][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_uploads.part003.zip index:0 finished.
+[2025-05-15 20:29:16][notice]End restore upload.
+[2025-05-15 20:29:19][notice]Start restoring wp-core.
+[2025-05-15 20:29:19][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip
+[2025-05-15 20:29:19][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip succeeded.
+[2025-05-15 20:29:19][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_core.zip
+[2025-05-15 20:29:19][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_core.zip succeeded.
+[2025-05-15 20:29:19][notice]End restore wp-core.
+[2025-05-15 20:29:22][notice]Start restoring databases.
+[2025-05-15 20:29:22][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip
+[2025-05-15 20:29:22][notice]Extracting file:hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip finished.
+[2025-05-15 20:29:22][notice]Extracting file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_db.zip
+[2025-05-15 20:29:23][notice]Extracting file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_db.zip finished.
+[2025-05-15 20:29:23][notice]End restore databases.
+[2025-05-15 20:29:25][notice]Start restoring databases.
+[2025-05-15 20:29:25][notice]Start restoring sql file offset:0
+[2025-05-15 20:29:25][notice]The test to drop table succeeds.
+[2025-05-15 20:29:25][notice]Drop table if exist tmp66e0e5_e_events
+[2025-05-15 20:29:25][notice]Creating table tmp66e0e5_e_events
+[2025-05-15 20:29:25][notice]Drop table if exist tmp66e0e5_links
+[2025-05-15 20:29:25][notice]Creating table tmp66e0e5_links
+[2025-05-15 20:29:25][notice]Drop table if exist tmp66e0e5_term_relationships
+[2025-05-15 20:29:25][notice]Creating table tmp66e0e5_term_relationships
+[2025-05-15 20:29:25][notice]Drop table if exist tmp66e0e5_commentmeta
+[2025-05-15 20:29:25][notice]Creating table tmp66e0e5_commentmeta
+[2025-05-15 20:29:25][notice]Drop table if exist tmp66e0e5_e_submissions_values
+[2025-05-15 20:29:25][notice]Creating table tmp66e0e5_e_submissions_values
+[2025-05-15 20:29:25][notice]Drop table if exist tmp66e0e5_term_taxonomy
+[2025-05-15 20:29:25][notice]Creating table tmp66e0e5_term_taxonomy
+[2025-05-15 20:29:25][notice]Drop table if exist tmp66e0e5_termmeta
+[2025-05-15 20:29:25][notice]Creating table tmp66e0e5_termmeta
+[2025-05-15 20:29:25][notice]Drop table if exist tmp66e0e5_terms
+[2025-05-15 20:29:25][notice]Creating table tmp66e0e5_terms
+[2025-05-15 20:29:25][notice]Drop table if exist tmp66e0e5_usermeta
+[2025-05-15 20:29:25][notice]Creating table tmp66e0e5_usermeta
+[2025-05-15 20:29:26][notice]Drop table if exist tmp66e0e5_e_notes_users_relations
+[2025-05-15 20:29:26][notice]Creating table tmp66e0e5_e_notes_users_relations
+[2025-05-15 20:29:26][notice]Drop table if exist tmp66e0e5_users
+[2025-05-15 20:29:26][notice]Creating table tmp66e0e5_users
+[2025-05-15 20:29:26][notice]Drop table if exist tmp66e0e5_comments
+[2025-05-15 20:29:26][notice]Creating table tmp66e0e5_comments
+[2025-05-15 20:29:26][notice]Drop table if exist tmp66e0e5_e_submissions_actions_log
+[2025-05-15 20:29:26][notice]Creating table tmp66e0e5_e_submissions_actions_log
+[2025-05-15 20:29:26][notice]Drop table if exist tmp66e0e5_e_notes
+[2025-05-15 20:29:26][notice]Creating table tmp66e0e5_e_notes
+[2025-05-15 20:29:26][notice]Drop table if exist tmp66e0e5_e_submissions
+[2025-05-15 20:29:26][notice]Creating table tmp66e0e5_e_submissions
+[2025-05-15 20:29:26][notice]Drop table if exist tmp66e0e5_options
+[2025-05-15 20:29:26][notice]Creating table tmp66e0e5_options
+[2025-05-15 20:29:27][notice]Drop table if exist tmp66e0e5_postmeta
+[2025-05-15 20:29:27][notice]Creating table tmp66e0e5_postmeta
+[2025-05-15 20:29:34][notice]Reading sql file completed offset:5264671
+[2025-05-15 20:29:34][notice]End restore databases.
+[2025-05-15 20:29:36][notice]Start restoring databases.
+[2025-05-15 20:29:36][notice]Start restoring sql file offset:5264671
+[2025-05-15 20:29:36][notice]The test to drop table succeeds.
+[2025-05-15 20:29:38][notice]Reading sql file completed offset:10514159
+[2025-05-15 20:29:38][notice]End restore databases.
+[2025-05-15 20:29:40][notice]Start restoring databases.
+[2025-05-15 20:29:40][notice]Start restoring sql file offset:10514159
+[2025-05-15 20:29:40][notice]The test to drop table succeeds.
+[2025-05-15 20:29:41][notice]Drop table if exist tmp66e0e5_posts
+[2025-05-15 20:29:41][notice]Creating table tmp66e0e5_posts
+[2025-05-15 20:29:42][notice]Reading sql file completed offset:16410862
+[2025-05-15 20:29:42][notice]End restore databases.
+[2025-05-15 20:29:44][notice]Start restoring databases.
+[2025-05-15 20:29:44][notice]Start restoring sql file offset:16410862
+[2025-05-15 20:29:44][notice]The test to drop table succeeds.
+[2025-05-15 20:29:44][notice]Reading sql file completed offset:21905070
+[2025-05-15 20:29:44][notice]End restore databases.
+[2025-05-15 20:29:46][notice]Start restoring databases.
+[2025-05-15 20:29:46][notice]Start restoring sql file offset:21905070
+[2025-05-15 20:29:46][notice]The test to drop table succeeds.
+[2025-05-15 20:29:47][notice]Reading sql file completed offset:27330819
+[2025-05-15 20:29:47][notice]End restore databases.
+[2025-05-15 20:29:49][notice]Start restoring databases.
+[2025-05-15 20:29:49][notice]Start restoring sql file offset:27330819
+[2025-05-15 20:29:49][notice]The test to drop table succeeds.
+[2025-05-15 20:29:49][notice]Reading sql file completed offset:32588607
+[2025-05-15 20:29:49][notice]End restore databases.
+[2025-05-15 20:29:51][notice]Start restoring databases.
+[2025-05-15 20:29:51][notice]Start restoring sql file offset:32588607
+[2025-05-15 20:29:51][notice]The test to drop table succeeds.
+[2025-05-15 20:29:52][notice]Reading sql file completed offset:38085392
+[2025-05-15 20:29:52][notice]End restore databases.
+[2025-05-15 20:29:53][notice]Start restoring databases.
+[2025-05-15 20:29:54][notice]Start restoring sql file offset:38085392
+[2025-05-15 20:29:54][notice]The test to drop table succeeds.
+[2025-05-15 20:29:54][notice]Start replacing table tmp66e0e5_e_events offset:0
+[2025-05-15 20:29:54][notice]
+[2025-05-15 20:29:54][notice]Counting of rows in tmp66e0e5_e_events: 2
+[2025-05-15 20:29:54][notice]Replacing the row in 0 line.
+[2025-05-15 20:29:54][notice]Replacing row completed. Current row:5000
+[2025-05-15 20:29:54][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp66e0e5_e_events Replaced row: 0\/2;"}
+[2025-05-15 20:29:54][notice]End restore databases.
+[2025-05-15 20:29:55][notice]Start restoring databases.
+[2025-05-15 20:29:55][notice]Start replacing table tmp66e0e5_links offset:0
+[2025-05-15 20:29:55][notice]
+[2025-05-15 20:29:55][notice]Counting of rows in tmp66e0e5_links: 0
+[2025-05-15 20:29:55][notice]End restore databases.
+[2025-05-15 20:29:57][notice]Start restoring databases.
+[2025-05-15 20:29:57][notice]Start replacing table tmp66e0e5_term_relationships offset:0
+[2025-05-15 20:29:57][notice]
+[2025-05-15 20:29:57][Warning]Skipping table tmp66e0e5_term_relationships
+[2025-05-15 20:29:57][notice]End restore databases.
+[2025-05-15 20:29:59][notice]Start restoring databases.
+[2025-05-15 20:29:59][notice]Start replacing table tmp66e0e5_commentmeta offset:0
+[2025-05-15 20:29:59][notice]
+[2025-05-15 20:29:59][notice]Counting of rows in tmp66e0e5_commentmeta: 0
+[2025-05-15 20:29:59][notice]End restore databases.
+[2025-05-15 20:30:01][notice]Start restoring databases.
+[2025-05-15 20:30:01][notice]Start replacing table tmp66e0e5_e_submissions_values offset:0
+[2025-05-15 20:30:01][notice]
+[2025-05-15 20:30:01][notice]Counting of rows in tmp66e0e5_e_submissions_values: 0
+[2025-05-15 20:30:01][notice]End restore databases.
+[2025-05-15 20:30:03][notice]Start restoring databases.
+[2025-05-15 20:30:03][notice]Start replacing table tmp66e0e5_term_taxonomy offset:0
+[2025-05-15 20:30:03][notice]
+[2025-05-15 20:30:03][notice]Counting of rows in tmp66e0e5_term_taxonomy: 8
+[2025-05-15 20:30:03][notice]Replacing the row in 0 line.
+[2025-05-15 20:30:03][notice]Replacing row completed. Current row:5000
+[2025-05-15 20:30:03][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp66e0e5_term_taxonomy Replaced row: 0\/8;"}
+[2025-05-15 20:30:03][notice]End restore databases.
+[2025-05-15 20:30:05][notice]Start restoring databases.
+[2025-05-15 20:30:05][notice]Start replacing table tmp66e0e5_termmeta offset:0
+[2025-05-15 20:30:05][notice]
+[2025-05-15 20:30:05][notice]Counting of rows in tmp66e0e5_termmeta: 0
+[2025-05-15 20:30:05][notice]End restore databases.
+[2025-05-15 20:30:07][notice]Start restoring databases.
+[2025-05-15 20:30:07][notice]Start replacing table tmp66e0e5_terms offset:0
+[2025-05-15 20:30:07][notice]
+[2025-05-15 20:30:07][notice]Counting of rows in tmp66e0e5_terms: 8
+[2025-05-15 20:30:07][notice]Replacing the row in 0 line.
+[2025-05-15 20:30:07][notice]Replacing row completed. Current row:5000
+[2025-05-15 20:30:07][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp66e0e5_terms Replaced row: 0\/8;"}
+[2025-05-15 20:30:07][notice]End restore databases.
+[2025-05-15 20:30:09][notice]Start restoring databases.
+[2025-05-15 20:30:09][notice]Start replacing table tmp66e0e5_usermeta offset:0
+[2025-05-15 20:30:09][notice]
+[2025-05-15 20:30:09][notice]End restore databases.
+[2025-05-15 20:30:11][notice]Start restoring databases.
+[2025-05-15 20:30:11][notice]Start replacing table tmp66e0e5_e_notes_users_relations offset:0
+[2025-05-15 20:30:11][notice]
+[2025-05-15 20:30:11][notice]Counting of rows in tmp66e0e5_e_notes_users_relations: 0
+[2025-05-15 20:30:11][notice]End restore databases.
+[2025-05-15 20:30:13][notice]Start restoring databases.
+[2025-05-15 20:30:13][notice]Start replacing table tmp66e0e5_users offset:0
+[2025-05-15 20:30:13][notice]
+[2025-05-15 20:30:13][notice]Counting of rows in tmp66e0e5_users: 1
+[2025-05-15 20:30:13][notice]Replacing the row in 0 line.
+[2025-05-15 20:30:13][notice]Replacing row completed. Current row:5000
+[2025-05-15 20:30:13][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp66e0e5_users Replaced row: 0\/1;"}
+[2025-05-15 20:30:13][notice]End restore databases.
+[2025-05-15 20:30:14][notice]Start restoring databases.
+[2025-05-15 20:30:14][notice]Start replacing table tmp66e0e5_comments offset:0
+[2025-05-15 20:30:14][notice]
+[2025-05-15 20:30:14][notice]Counting of rows in tmp66e0e5_comments: 0
+[2025-05-15 20:30:14][notice]End restore databases.
+[2025-05-15 20:30:16][notice]Start restoring databases.
+[2025-05-15 20:30:16][notice]Start replacing table tmp66e0e5_e_submissions_actions_log offset:0
+[2025-05-15 20:30:16][notice]
+[2025-05-15 20:30:16][notice]Counting of rows in tmp66e0e5_e_submissions_actions_log: 0
+[2025-05-15 20:30:16][notice]End restore databases.
+[2025-05-15 20:30:18][notice]Start restoring databases.
+[2025-05-15 20:30:18][notice]Start replacing table tmp66e0e5_e_notes offset:0
+[2025-05-15 20:30:18][notice]
+[2025-05-15 20:30:18][notice]Counting of rows in tmp66e0e5_e_notes: 0
+[2025-05-15 20:30:18][notice]End restore databases.
+[2025-05-15 20:30:20][notice]Start restoring databases.
+[2025-05-15 20:30:20][notice]Start replacing table tmp66e0e5_e_submissions offset:0
+[2025-05-15 20:30:20][notice]
+[2025-05-15 20:30:20][notice]Counting of rows in tmp66e0e5_e_submissions: 0
+[2025-05-15 20:30:20][notice]End restore databases.
+[2025-05-15 20:30:22][notice]Start restoring databases.
+[2025-05-15 20:30:22][notice]Start replacing table tmp66e0e5_options offset:0
+[2025-05-15 20:30:22][notice]
+[2025-05-15 20:30:22][notice]Counting of rows in tmp66e0e5_options: 282
+[2025-05-15 20:30:22][notice]Replacing the row in 0 line.
+[2025-05-15 20:30:22][notice]Replacing row completed. Current row:5000
+[2025-05-15 20:30:22][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp66e0e5_options Replaced row: 0\/282;"}
+[2025-05-15 20:30:22][notice]End restore databases.
+[2025-05-15 20:30:24][notice]Start restoring databases.
+[2025-05-15 20:30:24][notice]Start replacing table tmp66e0e5_postmeta offset:0
+[2025-05-15 20:30:24][notice]
+[2025-05-15 20:30:24][notice]Counting of rows in tmp66e0e5_postmeta: 4810
+[2025-05-15 20:30:24][notice]Replacing the row in 0 line.
+[2025-05-15 20:30:26][notice]Replacing row completed. Current row:5000
+[2025-05-15 20:30:26][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp66e0e5_postmeta Replaced row: 0\/4810;"}
+[2025-05-15 20:30:26][notice]End restore databases.
+[2025-05-15 20:30:28][notice]Start restoring databases.
+[2025-05-15 20:30:28][notice]Start replacing table tmp66e0e5_posts offset:0
+[2025-05-15 20:30:28][notice]
+[2025-05-15 20:30:28][notice]Counting of rows in tmp66e0e5_posts: 773
+[2025-05-15 20:30:28][notice]Replacing the row in 0 line.
+[2025-05-15 20:30:29][notice]Replacing row completed. Current row:5000
+[2025-05-15 20:30:29][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmp66e0e5_posts Replaced row: 0\/773;"}
+[2025-05-15 20:30:29][notice]
+[2025-05-15 20:30:29][notice]UPDATE tmp66e0e5_options SET option_value="https://architectcode.ai" WHERE option_name="siteurl";
+[2025-05-15 20:30:29][notice]update query len:97
+[2025-05-15 20:30:29][notice]UPDATE tmp66e0e5_options SET option_value="https://architectcode.ai" WHERE option_name="home";
+[2025-05-15 20:30:29][notice]update query len:94
+[2025-05-15 20:30:29][notice]Restore db success
+[2025-05-15 20:30:29][notice]End restore databases.
+[2025-05-15 20:30:31][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_commentmeta
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_comments
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_e_events
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_e_notes
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_e_notes_users_relations
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_e_submissions
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_e_submissions_actions_log
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_e_submissions_values
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_links
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_options
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_postmeta
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_posts
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_term_relationships
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_term_taxonomy
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_termmeta
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_terms
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_usermeta
+[2025-05-15 20:30:32][notice]DROP TABLE IF EXISTS wp_cf5b10e19a_users
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_commentmeta TO wp_cf5b10e19a_commentmeta
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_comments TO wp_cf5b10e19a_comments
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_e_events TO wp_cf5b10e19a_e_events
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_e_notes TO wp_cf5b10e19a_e_notes
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_e_notes_users_relations TO wp_cf5b10e19a_e_notes_users_relations
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_e_submissions TO wp_cf5b10e19a_e_submissions
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_e_submissions_actions_log TO wp_cf5b10e19a_e_submissions_actions_log
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_e_submissions_values TO wp_cf5b10e19a_e_submissions_values
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_links TO wp_cf5b10e19a_links
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_options TO wp_cf5b10e19a_options
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_postmeta TO wp_cf5b10e19a_postmeta
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_posts TO wp_cf5b10e19a_posts
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_term_relationships TO wp_cf5b10e19a_term_relationships
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_term_taxonomy TO wp_cf5b10e19a_term_taxonomy
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_termmeta TO wp_cf5b10e19a_termmeta
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_terms TO wp_cf5b10e19a_terms
+[2025-05-15 20:30:32][notice]RENAME TABLE tmp66e0e5_usermeta TO wp_cf5b10e19a_usermeta
+[2025-05-15 20:30:33][notice]RENAME TABLE tmp66e0e5_users TO wp_cf5b10e19a_users
+[2025-05-15 20:30:33][notice]Replacing table prefix succeeded.
+[2025-05-15 20:30:33][notice]Delete migration option failed.
+[2025-05-15 20:30:33][notice]Deleting temp files.

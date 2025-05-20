@@ -1,0 +1,16 @@
+# WordPress core folders (optional)
+wp-admin/
+wp-includes/
+
+# Uploads and large backup files
+wp-content/uploads/
+wp-content/wpvividbackups/
+wp-content/mwp-download/
+
+# Sensitive or unnecessary files
+wp-config.php
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+.env

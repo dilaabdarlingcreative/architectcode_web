@@ -1,0 +1,936 @@
+Log created: 2025-05-15 20:12:42
+Type: transfer
+[2025-05-15 20:12:42][notice]server info fcgi:Off max execution time: 300 wp version:6.8.1 php version:8.0.30.6 db version:8.0.37 php ini:safe_mode: memory_limit:512M memory_get_usage:4.24 MB memory_get_peak_usage:4.57 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2025-05-15 20:12:42][notice]Connect site success
+[2025-05-15 20:12:45][notice]start upload.
+[2025-05-15 20:12:45][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:0 B
+[2025-05-15 20:12:45][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:2097152
+[2025-05-15 20:12:45][notice]continue size:2097152 size1:42664614
+[2025-05-15 20:12:46][notice]start upload.
+[2025-05-15 20:12:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:2 MB
+[2025-05-15 20:12:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:4194304
+[2025-05-15 20:12:46][notice]continue size:4194304 size1:42664614
+[2025-05-15 20:12:47][notice]start upload.
+[2025-05-15 20:12:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:4 MB
+[2025-05-15 20:12:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:6291456
+[2025-05-15 20:12:47][notice]continue size:6291456 size1:42664614
+[2025-05-15 20:12:49][notice]start upload.
+[2025-05-15 20:12:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:6 MB
+[2025-05-15 20:12:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:8388608
+[2025-05-15 20:12:49][notice]continue size:8388608 size1:42664614
+[2025-05-15 20:12:50][notice]start upload.
+[2025-05-15 20:12:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:8 MB
+[2025-05-15 20:12:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:10485760
+[2025-05-15 20:12:50][notice]continue size:10485760 size1:42664614
+[2025-05-15 20:12:52][notice]start upload.
+[2025-05-15 20:12:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:10 MB
+[2025-05-15 20:12:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:12582912
+[2025-05-15 20:12:52][notice]continue size:12582912 size1:42664614
+[2025-05-15 20:12:54][notice]start upload.
+[2025-05-15 20:12:54][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:12 MB
+[2025-05-15 20:12:54][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:14680064
+[2025-05-15 20:12:54][notice]continue size:14680064 size1:42664614
+[2025-05-15 20:12:55][notice]start upload.
+[2025-05-15 20:12:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:14 MB
+[2025-05-15 20:12:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:16777216
+[2025-05-15 20:12:55][notice]continue size:16777216 size1:42664614
+[2025-05-15 20:12:57][notice]start upload.
+[2025-05-15 20:12:57][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:16 MB
+[2025-05-15 20:12:57][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:18874368
+[2025-05-15 20:12:57][notice]continue size:18874368 size1:42664614
+[2025-05-15 20:12:59][notice]start upload.
+[2025-05-15 20:12:59][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:18 MB
+[2025-05-15 20:12:59][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:20971520
+[2025-05-15 20:12:59][notice]continue size:20971520 size1:42664614
+[2025-05-15 20:13:00][notice]start upload.
+[2025-05-15 20:13:00][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:20 MB
+[2025-05-15 20:13:00][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:23068672
+[2025-05-15 20:13:00][notice]continue size:23068672 size1:42664614
+[2025-05-15 20:13:02][notice]start upload.
+[2025-05-15 20:13:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:22 MB
+[2025-05-15 20:13:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:25165824
+[2025-05-15 20:13:02][notice]continue size:25165824 size1:42664614
+[2025-05-15 20:13:04][notice]start upload.
+[2025-05-15 20:13:04][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:24 MB
+[2025-05-15 20:13:04][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:27262976
+[2025-05-15 20:13:04][notice]continue size:27262976 size1:42664614
+[2025-05-15 20:13:06][notice]start upload.
+[2025-05-15 20:13:06][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:26 MB
+[2025-05-15 20:13:06][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:29360128
+[2025-05-15 20:13:06][notice]continue size:29360128 size1:42664614
+[2025-05-15 20:13:07][notice]start upload.
+[2025-05-15 20:13:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:28 MB
+[2025-05-15 20:13:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:31457280
+[2025-05-15 20:13:07][notice]continue size:31457280 size1:42664614
+[2025-05-15 20:13:09][notice]start upload.
+[2025-05-15 20:13:09][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:30 MB
+[2025-05-15 20:13:09][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:33554432
+[2025-05-15 20:13:09][notice]continue size:33554432 size1:42664614
+[2025-05-15 20:13:11][notice]start upload.
+[2025-05-15 20:13:11][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:32 MB
+[2025-05-15 20:13:11][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:35651584
+[2025-05-15 20:13:11][notice]continue size:35651584 size1:42664614
+[2025-05-15 20:13:12][notice]start upload.
+[2025-05-15 20:13:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:34 MB
+[2025-05-15 20:13:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:37748736
+[2025-05-15 20:13:12][notice]continue size:37748736 size1:42664614
+[2025-05-15 20:13:14][notice]start upload.
+[2025-05-15 20:13:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:36 MB
+[2025-05-15 20:13:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:39845888
+[2025-05-15 20:13:14][notice]continue size:39845888 size1:42664614
+[2025-05-15 20:13:15][notice]start upload.
+[2025-05-15 20:13:15][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:38 MB
+[2025-05-15 20:13:15][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:41943040
+[2025-05-15 20:13:15][notice]continue size:41943040 size1:42664614
+[2025-05-15 20:13:17][notice]start upload.
+[2025-05-15 20:13:17][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip offset:40 MB
+[2025-05-15 20:13:17][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip success size:42664614
+[2025-05-15 20:13:17][notice]rename temp file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip to new name:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part001.zip
+[2025-05-15 20:13:19][notice]start upload.
+[2025-05-15 20:13:19][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:0 B
+[2025-05-15 20:13:19][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:2097152
+[2025-05-15 20:13:19][notice]continue size:2097152 size1:204039669
+[2025-05-15 20:13:21][notice]start upload.
+[2025-05-15 20:13:21][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:2 MB
+[2025-05-15 20:13:21][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:4194304
+[2025-05-15 20:13:21][notice]continue size:4194304 size1:204039669
+[2025-05-15 20:13:23][notice]start upload.
+[2025-05-15 20:13:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:4 MB
+[2025-05-15 20:13:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:6291456
+[2025-05-15 20:13:23][notice]continue size:6291456 size1:204039669
+[2025-05-15 20:13:25][notice]start upload.
+[2025-05-15 20:13:25][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:6 MB
+[2025-05-15 20:13:25][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:8388608
+[2025-05-15 20:13:25][notice]continue size:8388608 size1:204039669
+[2025-05-15 20:13:27][notice]start upload.
+[2025-05-15 20:13:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:8 MB
+[2025-05-15 20:13:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:10485760
+[2025-05-15 20:13:27][notice]continue size:10485760 size1:204039669
+[2025-05-15 20:13:31][notice]start upload.
+[2025-05-15 20:13:31][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:10 MB
+[2025-05-15 20:13:31][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:12582912
+[2025-05-15 20:13:31][notice]continue size:12582912 size1:204039669
+[2025-05-15 20:13:34][notice]start upload.
+[2025-05-15 20:13:34][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:12 MB
+[2025-05-15 20:13:34][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:14680064
+[2025-05-15 20:13:34][notice]continue size:14680064 size1:204039669
+[2025-05-15 20:13:36][notice]start upload.
+[2025-05-15 20:13:36][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:14 MB
+[2025-05-15 20:13:36][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:16777216
+[2025-05-15 20:13:36][notice]continue size:16777216 size1:204039669
+[2025-05-15 20:13:38][notice]start upload.
+[2025-05-15 20:13:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:16 MB
+[2025-05-15 20:13:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:18874368
+[2025-05-15 20:13:38][notice]continue size:18874368 size1:204039669
+[2025-05-15 20:13:39][notice]start upload.
+[2025-05-15 20:13:39][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:18 MB
+[2025-05-15 20:13:39][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:20971520
+[2025-05-15 20:13:39][notice]continue size:20971520 size1:204039669
+[2025-05-15 20:13:42][notice]start upload.
+[2025-05-15 20:13:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:20 MB
+[2025-05-15 20:13:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:23068672
+[2025-05-15 20:13:42][notice]continue size:23068672 size1:204039669
+[2025-05-15 20:13:52][notice]Connect site success
+[2025-05-15 20:13:55][notice]start upload.
+[2025-05-15 20:13:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:22 MB
+[2025-05-15 20:13:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:25165824
+[2025-05-15 20:13:55][notice]continue size:25165824 size1:204039669
+[2025-05-15 20:13:58][notice]start upload.
+[2025-05-15 20:13:58][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:24 MB
+[2025-05-15 20:13:58][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:27262976
+[2025-05-15 20:13:58][notice]continue size:27262976 size1:204039669
+[2025-05-15 20:14:00][notice]start upload.
+[2025-05-15 20:14:00][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:26 MB
+[2025-05-15 20:14:00][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:29360128
+[2025-05-15 20:14:00][notice]continue size:29360128 size1:204039669
+[2025-05-15 20:14:01][notice]start upload.
+[2025-05-15 20:14:01][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:28 MB
+[2025-05-15 20:14:01][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:31457280
+[2025-05-15 20:14:01][notice]continue size:31457280 size1:204039669
+[2025-05-15 20:14:03][notice]start upload.
+[2025-05-15 20:14:03][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:30 MB
+[2025-05-15 20:14:03][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:33554432
+[2025-05-15 20:14:03][notice]continue size:33554432 size1:204039669
+[2025-05-15 20:14:05][notice]start upload.
+[2025-05-15 20:14:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:32 MB
+[2025-05-15 20:14:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:35651584
+[2025-05-15 20:14:05][notice]continue size:35651584 size1:204039669
+[2025-05-15 20:14:06][notice]start upload.
+[2025-05-15 20:14:06][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:34 MB
+[2025-05-15 20:14:06][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:37748736
+[2025-05-15 20:14:06][notice]continue size:37748736 size1:204039669
+[2025-05-15 20:14:08][notice]start upload.
+[2025-05-15 20:14:08][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:36 MB
+[2025-05-15 20:14:08][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:39845888
+[2025-05-15 20:14:08][notice]continue size:39845888 size1:204039669
+[2025-05-15 20:14:10][notice]start upload.
+[2025-05-15 20:14:10][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:38 MB
+[2025-05-15 20:14:10][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:41943040
+[2025-05-15 20:14:10][notice]continue size:41943040 size1:204039669
+[2025-05-15 20:14:12][notice]start upload.
+[2025-05-15 20:14:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:40 MB
+[2025-05-15 20:14:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:44040192
+[2025-05-15 20:14:12][notice]continue size:44040192 size1:204039669
+[2025-05-15 20:14:13][notice]start upload.
+[2025-05-15 20:14:13][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:42 MB
+[2025-05-15 20:14:13][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:46137344
+[2025-05-15 20:14:13][notice]continue size:46137344 size1:204039669
+[2025-05-15 20:14:14][notice]start upload.
+[2025-05-15 20:14:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:44 MB
+[2025-05-15 20:14:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:48234496
+[2025-05-15 20:14:14][notice]continue size:48234496 size1:204039669
+[2025-05-15 20:14:16][notice]start upload.
+[2025-05-15 20:14:16][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:46 MB
+[2025-05-15 20:14:16][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:50331648
+[2025-05-15 20:14:16][notice]continue size:50331648 size1:204039669
+[2025-05-15 20:14:18][notice]start upload.
+[2025-05-15 20:14:18][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:48 MB
+[2025-05-15 20:14:18][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:52428800
+[2025-05-15 20:14:18][notice]continue size:52428800 size1:204039669
+[2025-05-15 20:14:19][notice]start upload.
+[2025-05-15 20:14:19][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:50 MB
+[2025-05-15 20:14:19][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:54525952
+[2025-05-15 20:14:19][notice]continue size:54525952 size1:204039669
+[2025-05-15 20:14:21][notice]start upload.
+[2025-05-15 20:14:21][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:52 MB
+[2025-05-15 20:14:21][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:56623104
+[2025-05-15 20:14:21][notice]continue size:56623104 size1:204039669
+[2025-05-15 20:14:22][notice]start upload.
+[2025-05-15 20:14:22][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:54 MB
+[2025-05-15 20:14:22][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:58720256
+[2025-05-15 20:14:22][notice]continue size:58720256 size1:204039669
+[2025-05-15 20:14:24][notice]start upload.
+[2025-05-15 20:14:24][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:56 MB
+[2025-05-15 20:14:24][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:60817408
+[2025-05-15 20:14:24][notice]continue size:60817408 size1:204039669
+[2025-05-15 20:14:26][notice]start upload.
+[2025-05-15 20:14:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:58 MB
+[2025-05-15 20:14:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:62914560
+[2025-05-15 20:14:26][notice]continue size:62914560 size1:204039669
+[2025-05-15 20:14:27][notice]start upload.
+[2025-05-15 20:14:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:60 MB
+[2025-05-15 20:14:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:65011712
+[2025-05-15 20:14:27][notice]continue size:65011712 size1:204039669
+[2025-05-15 20:14:29][notice]start upload.
+[2025-05-15 20:14:29][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:62 MB
+[2025-05-15 20:14:29][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:67108864
+[2025-05-15 20:14:29][notice]continue size:67108864 size1:204039669
+[2025-05-15 20:14:30][notice]start upload.
+[2025-05-15 20:14:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:64 MB
+[2025-05-15 20:14:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:69206016
+[2025-05-15 20:14:30][notice]continue size:69206016 size1:204039669
+[2025-05-15 20:14:32][notice]start upload.
+[2025-05-15 20:14:32][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:66 MB
+[2025-05-15 20:14:32][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:71303168
+[2025-05-15 20:14:32][notice]continue size:71303168 size1:204039669
+[2025-05-15 20:14:33][notice]start upload.
+[2025-05-15 20:14:33][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:68 MB
+[2025-05-15 20:14:33][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:73400320
+[2025-05-15 20:14:33][notice]continue size:73400320 size1:204039669
+[2025-05-15 20:14:35][notice]start upload.
+[2025-05-15 20:14:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:70 MB
+[2025-05-15 20:14:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:75497472
+[2025-05-15 20:14:35][notice]continue size:75497472 size1:204039669
+[2025-05-15 20:14:37][notice]start upload.
+[2025-05-15 20:14:37][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:72 MB
+[2025-05-15 20:14:37][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:77594624
+[2025-05-15 20:14:37][notice]continue size:77594624 size1:204039669
+[2025-05-15 20:14:38][notice]start upload.
+[2025-05-15 20:14:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:74 MB
+[2025-05-15 20:14:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:79691776
+[2025-05-15 20:14:38][notice]continue size:79691776 size1:204039669
+[2025-05-15 20:14:40][notice]start upload.
+[2025-05-15 20:14:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:76 MB
+[2025-05-15 20:14:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:81788928
+[2025-05-15 20:14:40][notice]continue size:81788928 size1:204039669
+[2025-05-15 20:14:42][notice]start upload.
+[2025-05-15 20:14:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:78 MB
+[2025-05-15 20:14:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:83886080
+[2025-05-15 20:14:42][notice]continue size:83886080 size1:204039669
+[2025-05-15 20:14:43][notice]start upload.
+[2025-05-15 20:14:43][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:80 MB
+[2025-05-15 20:14:43][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:85983232
+[2025-05-15 20:14:43][notice]continue size:85983232 size1:204039669
+[2025-05-15 20:14:44][notice]start upload.
+[2025-05-15 20:14:44][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:82 MB
+[2025-05-15 20:14:44][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:88080384
+[2025-05-15 20:14:44][notice]continue size:88080384 size1:204039669
+[2025-05-15 20:14:46][notice]start upload.
+[2025-05-15 20:14:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:84 MB
+[2025-05-15 20:14:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:90177536
+[2025-05-15 20:14:46][notice]continue size:90177536 size1:204039669
+[2025-05-15 20:14:47][notice]start upload.
+[2025-05-15 20:14:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:86 MB
+[2025-05-15 20:14:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:92274688
+[2025-05-15 20:14:47][notice]continue size:92274688 size1:204039669
+[2025-05-15 20:14:49][notice]start upload.
+[2025-05-15 20:14:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:88 MB
+[2025-05-15 20:14:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:94371840
+[2025-05-15 20:14:49][notice]continue size:94371840 size1:204039669
+[2025-05-15 20:14:50][notice]start upload.
+[2025-05-15 20:14:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:90 MB
+[2025-05-15 20:14:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:96468992
+[2025-05-15 20:14:50][notice]continue size:96468992 size1:204039669
+[2025-05-15 20:14:52][notice]start upload.
+[2025-05-15 20:14:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:92 MB
+[2025-05-15 20:14:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:98566144
+[2025-05-15 20:14:52][notice]continue size:98566144 size1:204039669
+[2025-05-15 20:14:54][notice]start upload.
+[2025-05-15 20:14:54][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:94 MB
+[2025-05-15 20:14:54][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:100663296
+[2025-05-15 20:14:54][notice]continue size:100663296 size1:204039669
+[2025-05-15 20:14:55][notice]start upload.
+[2025-05-15 20:14:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:96 MB
+[2025-05-15 20:14:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:102760448
+[2025-05-15 20:14:55][notice]continue size:102760448 size1:204039669
+[2025-05-15 20:14:56][notice]start upload.
+[2025-05-15 20:14:56][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:98 MB
+[2025-05-15 20:14:56][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:104857600
+[2025-05-15 20:14:56][notice]continue size:104857600 size1:204039669
+[2025-05-15 20:14:58][notice]start upload.
+[2025-05-15 20:14:58][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:100 MB
+[2025-05-15 20:14:58][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:106954752
+[2025-05-15 20:14:58][notice]continue size:106954752 size1:204039669
+[2025-05-15 20:15:00][notice]start upload.
+[2025-05-15 20:15:00][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:102 MB
+[2025-05-15 20:15:00][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:109051904
+[2025-05-15 20:15:00][notice]continue size:109051904 size1:204039669
+[2025-05-15 20:15:02][notice]start upload.
+[2025-05-15 20:15:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:104 MB
+[2025-05-15 20:15:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:111149056
+[2025-05-15 20:15:02][notice]continue size:111149056 size1:204039669
+[2025-05-15 20:15:04][notice]start upload.
+[2025-05-15 20:15:04][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:106 MB
+[2025-05-15 20:15:04][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:113246208
+[2025-05-15 20:15:04][notice]continue size:113246208 size1:204039669
+[2025-05-15 20:15:05][notice]start upload.
+[2025-05-15 20:15:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:108 MB
+[2025-05-15 20:15:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:115343360
+[2025-05-15 20:15:05][notice]continue size:115343360 size1:204039669
+[2025-05-15 20:15:07][notice]start upload.
+[2025-05-15 20:15:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:110 MB
+[2025-05-15 20:15:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:117440512
+[2025-05-15 20:15:07][notice]continue size:117440512 size1:204039669
+[2025-05-15 20:15:08][notice]start upload.
+[2025-05-15 20:15:08][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:112 MB
+[2025-05-15 20:15:08][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:119537664
+[2025-05-15 20:15:08][notice]continue size:119537664 size1:204039669
+[2025-05-15 20:15:10][notice]start upload.
+[2025-05-15 20:15:10][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:114 MB
+[2025-05-15 20:15:10][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:121634816
+[2025-05-15 20:15:10][notice]continue size:121634816 size1:204039669
+[2025-05-15 20:15:12][notice]start upload.
+[2025-05-15 20:15:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:116 MB
+[2025-05-15 20:15:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:123731968
+[2025-05-15 20:15:12][notice]continue size:123731968 size1:204039669
+[2025-05-15 20:15:13][notice]start upload.
+[2025-05-15 20:15:13][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:118 MB
+[2025-05-15 20:15:13][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:125829120
+[2025-05-15 20:15:13][notice]continue size:125829120 size1:204039669
+[2025-05-15 20:15:14][notice]start upload.
+[2025-05-15 20:15:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:120 MB
+[2025-05-15 20:15:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:127926272
+[2025-05-15 20:15:14][notice]continue size:127926272 size1:204039669
+[2025-05-15 20:15:16][notice]start upload.
+[2025-05-15 20:15:16][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:122 MB
+[2025-05-15 20:15:16][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:130023424
+[2025-05-15 20:15:16][notice]continue size:130023424 size1:204039669
+[2025-05-15 20:15:18][notice]start upload.
+[2025-05-15 20:15:18][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:124 MB
+[2025-05-15 20:15:18][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:132120576
+[2025-05-15 20:15:18][notice]continue size:132120576 size1:204039669
+[2025-05-15 20:15:20][notice]start upload.
+[2025-05-15 20:15:20][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:126 MB
+[2025-05-15 20:15:20][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:134217728
+[2025-05-15 20:15:20][notice]continue size:134217728 size1:204039669
+[2025-05-15 20:15:21][notice]start upload.
+[2025-05-15 20:15:21][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:128 MB
+[2025-05-15 20:15:21][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:136314880
+[2025-05-15 20:15:21][notice]continue size:136314880 size1:204039669
+[2025-05-15 20:15:23][notice]start upload.
+[2025-05-15 20:15:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:130 MB
+[2025-05-15 20:15:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:138412032
+[2025-05-15 20:15:23][notice]continue size:138412032 size1:204039669
+[2025-05-15 20:15:25][notice]start upload.
+[2025-05-15 20:15:25][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:132 MB
+[2025-05-15 20:15:25][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:140509184
+[2025-05-15 20:15:25][notice]continue size:140509184 size1:204039669
+[2025-05-15 20:15:27][notice]start upload.
+[2025-05-15 20:15:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:134 MB
+[2025-05-15 20:15:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:142606336
+[2025-05-15 20:15:27][notice]continue size:142606336 size1:204039669
+[2025-05-15 20:15:28][notice]start upload.
+[2025-05-15 20:15:28][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:136 MB
+[2025-05-15 20:15:28][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:144703488
+[2025-05-15 20:15:28][notice]continue size:144703488 size1:204039669
+[2025-05-15 20:15:30][notice]start upload.
+[2025-05-15 20:15:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:138 MB
+[2025-05-15 20:15:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:146800640
+[2025-05-15 20:15:30][notice]continue size:146800640 size1:204039669
+[2025-05-15 20:15:32][notice]start upload.
+[2025-05-15 20:15:32][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:140 MB
+[2025-05-15 20:15:32][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:148897792
+[2025-05-15 20:15:32][notice]continue size:148897792 size1:204039669
+[2025-05-15 20:15:34][notice]start upload.
+[2025-05-15 20:15:34][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:142 MB
+[2025-05-15 20:15:34][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:150994944
+[2025-05-15 20:15:34][notice]continue size:150994944 size1:204039669
+[2025-05-15 20:15:35][notice]start upload.
+[2025-05-15 20:15:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:144 MB
+[2025-05-15 20:15:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:153092096
+[2025-05-15 20:15:35][notice]continue size:153092096 size1:204039669
+[2025-05-15 20:15:37][notice]start upload.
+[2025-05-15 20:15:37][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:146 MB
+[2025-05-15 20:15:37][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:155189248
+[2025-05-15 20:15:37][notice]continue size:155189248 size1:204039669
+[2025-05-15 20:15:39][notice]start upload.
+[2025-05-15 20:15:39][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:148 MB
+[2025-05-15 20:15:39][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:157286400
+[2025-05-15 20:15:39][notice]continue size:157286400 size1:204039669
+[2025-05-15 20:15:41][notice]start upload.
+[2025-05-15 20:15:41][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:150 MB
+[2025-05-15 20:15:41][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:159383552
+[2025-05-15 20:15:41][notice]continue size:159383552 size1:204039669
+[2025-05-15 20:15:42][notice]start upload.
+[2025-05-15 20:15:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:152 MB
+[2025-05-15 20:15:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:161480704
+[2025-05-15 20:15:42][notice]continue size:161480704 size1:204039669
+[2025-05-15 20:15:44][notice]start upload.
+[2025-05-15 20:15:44][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:154 MB
+[2025-05-15 20:15:44][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:163577856
+[2025-05-15 20:15:44][notice]continue size:163577856 size1:204039669
+[2025-05-15 20:15:45][notice]start upload.
+[2025-05-15 20:15:45][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:156 MB
+[2025-05-15 20:15:45][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:165675008
+[2025-05-15 20:15:45][notice]continue size:165675008 size1:204039669
+[2025-05-15 20:15:47][notice]start upload.
+[2025-05-15 20:15:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:158 MB
+[2025-05-15 20:15:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:167772160
+[2025-05-15 20:15:47][notice]continue size:167772160 size1:204039669
+[2025-05-15 20:15:49][notice]start upload.
+[2025-05-15 20:15:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:160 MB
+[2025-05-15 20:15:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:169869312
+[2025-05-15 20:15:49][notice]continue size:169869312 size1:204039669
+[2025-05-15 20:15:52][notice]start upload.
+[2025-05-15 20:15:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:162 MB
+[2025-05-15 20:15:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:171966464
+[2025-05-15 20:15:52][notice]continue size:171966464 size1:204039669
+[2025-05-15 20:16:04][notice]Connect site success
+[2025-05-15 20:16:07][notice]start upload.
+[2025-05-15 20:16:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:164 MB
+[2025-05-15 20:16:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:174063616
+[2025-05-15 20:16:07][notice]continue size:174063616 size1:204039669
+[2025-05-15 20:16:09][notice]start upload.
+[2025-05-15 20:16:09][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:166 MB
+[2025-05-15 20:16:09][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:176160768
+[2025-05-15 20:16:09][notice]continue size:176160768 size1:204039669
+[2025-05-15 20:16:11][notice]start upload.
+[2025-05-15 20:16:11][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:168 MB
+[2025-05-15 20:16:11][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:178257920
+[2025-05-15 20:16:11][notice]continue size:178257920 size1:204039669
+[2025-05-15 20:16:12][notice]start upload.
+[2025-05-15 20:16:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:170 MB
+[2025-05-15 20:16:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:180355072
+[2025-05-15 20:16:12][notice]continue size:180355072 size1:204039669
+[2025-05-15 20:16:15][notice]start upload.
+[2025-05-15 20:16:15][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:172 MB
+[2025-05-15 20:16:15][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:182452224
+[2025-05-15 20:16:15][notice]continue size:182452224 size1:204039669
+[2025-05-15 20:16:17][notice]start upload.
+[2025-05-15 20:16:17][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:174 MB
+[2025-05-15 20:16:17][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:184549376
+[2025-05-15 20:16:17][notice]continue size:184549376 size1:204039669
+[2025-05-15 20:16:18][notice]start upload.
+[2025-05-15 20:16:18][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:176 MB
+[2025-05-15 20:16:18][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:186646528
+[2025-05-15 20:16:18][notice]continue size:186646528 size1:204039669
+[2025-05-15 20:16:20][notice]start upload.
+[2025-05-15 20:16:20][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:178 MB
+[2025-05-15 20:16:20][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:188743680
+[2025-05-15 20:16:20][notice]continue size:188743680 size1:204039669
+[2025-05-15 20:16:22][notice]start upload.
+[2025-05-15 20:16:22][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:180 MB
+[2025-05-15 20:16:22][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:190840832
+[2025-05-15 20:16:22][notice]continue size:190840832 size1:204039669
+[2025-05-15 20:16:23][notice]start upload.
+[2025-05-15 20:16:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:182 MB
+[2025-05-15 20:16:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:192937984
+[2025-05-15 20:16:23][notice]continue size:192937984 size1:204039669
+[2025-05-15 20:16:26][notice]start upload.
+[2025-05-15 20:16:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:184 MB
+[2025-05-15 20:16:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:195035136
+[2025-05-15 20:16:26][notice]continue size:195035136 size1:204039669
+[2025-05-15 20:16:27][notice]start upload.
+[2025-05-15 20:16:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:186 MB
+[2025-05-15 20:16:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:197132288
+[2025-05-15 20:16:27][notice]continue size:197132288 size1:204039669
+[2025-05-15 20:16:29][notice]start upload.
+[2025-05-15 20:16:29][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:188 MB
+[2025-05-15 20:16:29][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:199229440
+[2025-05-15 20:16:29][notice]continue size:199229440 size1:204039669
+[2025-05-15 20:16:31][notice]start upload.
+[2025-05-15 20:16:31][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:190 MB
+[2025-05-15 20:16:31][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:201326592
+[2025-05-15 20:16:31][notice]continue size:201326592 size1:204039669
+[2025-05-15 20:16:33][notice]start upload.
+[2025-05-15 20:16:33][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:192 MB
+[2025-05-15 20:16:33][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:203423744
+[2025-05-15 20:16:33][notice]continue size:203423744 size1:204039669
+[2025-05-15 20:16:34][notice]start upload.
+[2025-05-15 20:16:34][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip offset:194 MB
+[2025-05-15 20:16:34][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip success size:204039669
+[2025-05-15 20:16:35][notice]rename temp file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip to new name:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part002.zip
+[2025-05-15 20:16:37][notice]start upload.
+[2025-05-15 20:16:37][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:0 B
+[2025-05-15 20:16:37][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:2097152
+[2025-05-15 20:16:37][notice]continue size:2097152 size1:199699715
+[2025-05-15 20:16:38][notice]start upload.
+[2025-05-15 20:16:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:2 MB
+[2025-05-15 20:16:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:4194304
+[2025-05-15 20:16:38][notice]continue size:4194304 size1:199699715
+[2025-05-15 20:16:40][notice]start upload.
+[2025-05-15 20:16:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:4 MB
+[2025-05-15 20:16:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:6291456
+[2025-05-15 20:16:40][notice]continue size:6291456 size1:199699715
+[2025-05-15 20:16:42][notice]start upload.
+[2025-05-15 20:16:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:6 MB
+[2025-05-15 20:16:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:8388608
+[2025-05-15 20:16:42][notice]continue size:8388608 size1:199699715
+[2025-05-15 20:16:43][notice]start upload.
+[2025-05-15 20:16:43][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:8 MB
+[2025-05-15 20:16:43][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:10485760
+[2025-05-15 20:16:43][notice]continue size:10485760 size1:199699715
+[2025-05-15 20:16:46][notice]start upload.
+[2025-05-15 20:16:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:10 MB
+[2025-05-15 20:16:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:12582912
+[2025-05-15 20:16:46][notice]continue size:12582912 size1:199699715
+[2025-05-15 20:16:47][notice]start upload.
+[2025-05-15 20:16:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:12 MB
+[2025-05-15 20:16:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:14680064
+[2025-05-15 20:16:47][notice]continue size:14680064 size1:199699715
+[2025-05-15 20:16:49][notice]start upload.
+[2025-05-15 20:16:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:14 MB
+[2025-05-15 20:16:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:16777216
+[2025-05-15 20:16:49][notice]continue size:16777216 size1:199699715
+[2025-05-15 20:16:50][notice]start upload.
+[2025-05-15 20:16:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:16 MB
+[2025-05-15 20:16:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:18874368
+[2025-05-15 20:16:50][notice]continue size:18874368 size1:199699715
+[2025-05-15 20:16:52][notice]start upload.
+[2025-05-15 20:16:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:18 MB
+[2025-05-15 20:16:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:20971520
+[2025-05-15 20:16:52][notice]continue size:20971520 size1:199699715
+[2025-05-15 20:16:53][notice]start upload.
+[2025-05-15 20:16:53][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:20 MB
+[2025-05-15 20:16:53][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:23068672
+[2025-05-15 20:16:53][notice]continue size:23068672 size1:199699715
+[2025-05-15 20:16:55][notice]start upload.
+[2025-05-15 20:16:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:22 MB
+[2025-05-15 20:16:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:25165824
+[2025-05-15 20:16:55][notice]continue size:25165824 size1:199699715
+[2025-05-15 20:16:57][notice]start upload.
+[2025-05-15 20:16:57][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:24 MB
+[2025-05-15 20:16:57][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:27262976
+[2025-05-15 20:16:57][notice]continue size:27262976 size1:199699715
+[2025-05-15 20:16:58][notice]start upload.
+[2025-05-15 20:16:58][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:26 MB
+[2025-05-15 20:16:58][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:29360128
+[2025-05-15 20:16:58][notice]continue size:29360128 size1:199699715
+[2025-05-15 20:17:00][notice]start upload.
+[2025-05-15 20:17:00][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:28 MB
+[2025-05-15 20:17:00][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:31457280
+[2025-05-15 20:17:00][notice]continue size:31457280 size1:199699715
+[2025-05-15 20:17:02][notice]start upload.
+[2025-05-15 20:17:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:30 MB
+[2025-05-15 20:17:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:33554432
+[2025-05-15 20:17:02][notice]continue size:33554432 size1:199699715
+[2025-05-15 20:17:04][notice]start upload.
+[2025-05-15 20:17:04][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:32 MB
+[2025-05-15 20:17:04][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:35651584
+[2025-05-15 20:17:04][notice]continue size:35651584 size1:199699715
+[2025-05-15 20:17:05][notice]start upload.
+[2025-05-15 20:17:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:34 MB
+[2025-05-15 20:17:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:37748736
+[2025-05-15 20:17:05][notice]continue size:37748736 size1:199699715
+[2025-05-15 20:17:07][notice]start upload.
+[2025-05-15 20:17:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:36 MB
+[2025-05-15 20:17:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:39845888
+[2025-05-15 20:17:07][notice]continue size:39845888 size1:199699715
+[2025-05-15 20:17:09][notice]start upload.
+[2025-05-15 20:17:09][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:38 MB
+[2025-05-15 20:17:09][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:41943040
+[2025-05-15 20:17:09][notice]continue size:41943040 size1:199699715
+[2025-05-15 20:17:11][notice]start upload.
+[2025-05-15 20:17:11][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:40 MB
+[2025-05-15 20:17:11][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:44040192
+[2025-05-15 20:17:11][notice]continue size:44040192 size1:199699715
+[2025-05-15 20:17:13][notice]start upload.
+[2025-05-15 20:17:13][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:42 MB
+[2025-05-15 20:17:13][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:46137344
+[2025-05-15 20:17:13][notice]continue size:46137344 size1:199699715
+[2025-05-15 20:17:14][notice]start upload.
+[2025-05-15 20:17:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:44 MB
+[2025-05-15 20:17:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:48234496
+[2025-05-15 20:17:14][notice]continue size:48234496 size1:199699715
+[2025-05-15 20:17:17][notice]start upload.
+[2025-05-15 20:17:17][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:46 MB
+[2025-05-15 20:17:17][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:50331648
+[2025-05-15 20:17:17][notice]continue size:50331648 size1:199699715
+[2025-05-15 20:17:20][notice]start upload.
+[2025-05-15 20:17:20][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:48 MB
+[2025-05-15 20:17:20][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:52428800
+[2025-05-15 20:17:20][notice]continue size:52428800 size1:199699715
+[2025-05-15 20:17:22][notice]start upload.
+[2025-05-15 20:17:22][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:50 MB
+[2025-05-15 20:17:22][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:54525952
+[2025-05-15 20:17:22][notice]continue size:54525952 size1:199699715
+[2025-05-15 20:17:23][notice]start upload.
+[2025-05-15 20:17:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:52 MB
+[2025-05-15 20:17:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:56623104
+[2025-05-15 20:17:23][notice]continue size:56623104 size1:199699715
+[2025-05-15 20:17:25][notice]start upload.
+[2025-05-15 20:17:25][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:54 MB
+[2025-05-15 20:17:25][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:58720256
+[2025-05-15 20:17:25][notice]continue size:58720256 size1:199699715
+[2025-05-15 20:17:26][notice]start upload.
+[2025-05-15 20:17:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:56 MB
+[2025-05-15 20:17:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:60817408
+[2025-05-15 20:17:26][notice]continue size:60817408 size1:199699715
+[2025-05-15 20:17:28][notice]start upload.
+[2025-05-15 20:17:28][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:58 MB
+[2025-05-15 20:17:28][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:62914560
+[2025-05-15 20:17:28][notice]continue size:62914560 size1:199699715
+[2025-05-15 20:17:30][notice]start upload.
+[2025-05-15 20:17:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:60 MB
+[2025-05-15 20:17:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:65011712
+[2025-05-15 20:17:30][notice]continue size:65011712 size1:199699715
+[2025-05-15 20:17:32][notice]start upload.
+[2025-05-15 20:17:32][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:62 MB
+[2025-05-15 20:17:32][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:67108864
+[2025-05-15 20:17:32][notice]continue size:67108864 size1:199699715
+[2025-05-15 20:17:33][notice]start upload.
+[2025-05-15 20:17:33][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:64 MB
+[2025-05-15 20:17:33][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:69206016
+[2025-05-15 20:17:33][notice]continue size:69206016 size1:199699715
+[2025-05-15 20:17:35][notice]start upload.
+[2025-05-15 20:17:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:66 MB
+[2025-05-15 20:17:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:71303168
+[2025-05-15 20:17:35][notice]continue size:71303168 size1:199699715
+[2025-05-15 20:17:37][notice]start upload.
+[2025-05-15 20:17:37][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:68 MB
+[2025-05-15 20:17:37][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:73400320
+[2025-05-15 20:17:37][notice]continue size:73400320 size1:199699715
+[2025-05-15 20:17:40][notice]start upload.
+[2025-05-15 20:17:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:70 MB
+[2025-05-15 20:17:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:75497472
+[2025-05-15 20:17:40][notice]continue size:75497472 size1:199699715
+[2025-05-15 20:17:42][notice]start upload.
+[2025-05-15 20:17:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:72 MB
+[2025-05-15 20:17:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:77594624
+[2025-05-15 20:17:42][notice]continue size:77594624 size1:199699715
+[2025-05-15 20:17:43][notice]start upload.
+[2025-05-15 20:17:43][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:74 MB
+[2025-05-15 20:17:43][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:79691776
+[2025-05-15 20:17:43][notice]continue size:79691776 size1:199699715
+[2025-05-15 20:17:45][notice]start upload.
+[2025-05-15 20:17:45][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:76 MB
+[2025-05-15 20:17:45][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:81788928
+[2025-05-15 20:17:45][notice]continue size:81788928 size1:199699715
+[2025-05-15 20:17:46][notice]start upload.
+[2025-05-15 20:17:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:78 MB
+[2025-05-15 20:17:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:83886080
+[2025-05-15 20:17:46][notice]continue size:83886080 size1:199699715
+[2025-05-15 20:17:48][notice]start upload.
+[2025-05-15 20:17:48][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:80 MB
+[2025-05-15 20:17:48][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:85983232
+[2025-05-15 20:17:48][notice]continue size:85983232 size1:199699715
+[2025-05-15 20:17:51][notice]start upload.
+[2025-05-15 20:17:51][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:82 MB
+[2025-05-15 20:17:51][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:88080384
+[2025-05-15 20:17:51][notice]continue size:88080384 size1:199699715
+[2025-05-15 20:17:52][notice]start upload.
+[2025-05-15 20:17:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:84 MB
+[2025-05-15 20:17:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:90177536
+[2025-05-15 20:17:52][notice]continue size:90177536 size1:199699715
+[2025-05-15 20:17:54][notice]start upload.
+[2025-05-15 20:17:54][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:86 MB
+[2025-05-15 20:17:54][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:92274688
+[2025-05-15 20:17:54][notice]continue size:92274688 size1:199699715
+[2025-05-15 20:17:56][notice]start upload.
+[2025-05-15 20:17:56][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:88 MB
+[2025-05-15 20:17:56][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:94371840
+[2025-05-15 20:17:56][notice]continue size:94371840 size1:199699715
+[2025-05-15 20:17:58][notice]start upload.
+[2025-05-15 20:17:58][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:90 MB
+[2025-05-15 20:17:58][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:96468992
+[2025-05-15 20:17:58][notice]continue size:96468992 size1:199699715
+[2025-05-15 20:17:59][notice]start upload.
+[2025-05-15 20:17:59][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:92 MB
+[2025-05-15 20:17:59][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:98566144
+[2025-05-15 20:17:59][notice]continue size:98566144 size1:199699715
+[2025-05-15 20:18:01][notice]start upload.
+[2025-05-15 20:18:01][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:94 MB
+[2025-05-15 20:18:01][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:100663296
+[2025-05-15 20:18:01][notice]continue size:100663296 size1:199699715
+[2025-05-15 20:18:02][notice]start upload.
+[2025-05-15 20:18:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:96 MB
+[2025-05-15 20:18:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:102760448
+[2025-05-15 20:18:02][notice]continue size:102760448 size1:199699715
+[2025-05-15 20:18:04][notice]start upload.
+[2025-05-15 20:18:04][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:98 MB
+[2025-05-15 20:18:04][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:104857600
+[2025-05-15 20:18:04][notice]continue size:104857600 size1:199699715
+[2025-05-15 20:18:06][notice]start upload.
+[2025-05-15 20:18:06][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:100 MB
+[2025-05-15 20:18:06][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:106954752
+[2025-05-15 20:18:06][notice]continue size:106954752 size1:199699715
+[2025-05-15 20:18:17][notice]Connect site success
+[2025-05-15 20:18:19][notice]start upload.
+[2025-05-15 20:18:19][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:102 MB
+[2025-05-15 20:18:19][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:109051904
+[2025-05-15 20:18:19][notice]continue size:109051904 size1:199699715
+[2025-05-15 20:18:21][notice]start upload.
+[2025-05-15 20:18:21][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:104 MB
+[2025-05-15 20:18:21][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:111149056
+[2025-05-15 20:18:21][notice]continue size:111149056 size1:199699715
+[2025-05-15 20:18:23][notice]start upload.
+[2025-05-15 20:18:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:106 MB
+[2025-05-15 20:18:23][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:113246208
+[2025-05-15 20:18:23][notice]continue size:113246208 size1:199699715
+[2025-05-15 20:18:24][notice]start upload.
+[2025-05-15 20:18:24][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:108 MB
+[2025-05-15 20:18:24][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:115343360
+[2025-05-15 20:18:24][notice]continue size:115343360 size1:199699715
+[2025-05-15 20:18:26][notice]start upload.
+[2025-05-15 20:18:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:110 MB
+[2025-05-15 20:18:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:117440512
+[2025-05-15 20:18:26][notice]continue size:117440512 size1:199699715
+[2025-05-15 20:18:29][notice]start upload.
+[2025-05-15 20:18:29][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:112 MB
+[2025-05-15 20:18:29][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:119537664
+[2025-05-15 20:18:29][notice]continue size:119537664 size1:199699715
+[2025-05-15 20:18:30][notice]start upload.
+[2025-05-15 20:18:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:114 MB
+[2025-05-15 20:18:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:121634816
+[2025-05-15 20:18:30][notice]continue size:121634816 size1:199699715
+[2025-05-15 20:18:33][notice]start upload.
+[2025-05-15 20:18:33][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:116 MB
+[2025-05-15 20:18:33][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:123731968
+[2025-05-15 20:18:33][notice]continue size:123731968 size1:199699715
+[2025-05-15 20:18:35][notice]start upload.
+[2025-05-15 20:18:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:118 MB
+[2025-05-15 20:18:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:125829120
+[2025-05-15 20:18:35][notice]continue size:125829120 size1:199699715
+[2025-05-15 20:18:36][notice]start upload.
+[2025-05-15 20:18:36][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:120 MB
+[2025-05-15 20:18:36][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:127926272
+[2025-05-15 20:18:36][notice]continue size:127926272 size1:199699715
+[2025-05-15 20:18:38][notice]start upload.
+[2025-05-15 20:18:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:122 MB
+[2025-05-15 20:18:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:130023424
+[2025-05-15 20:18:38][notice]continue size:130023424 size1:199699715
+[2025-05-15 20:18:40][notice]start upload.
+[2025-05-15 20:18:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:124 MB
+[2025-05-15 20:18:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:132120576
+[2025-05-15 20:18:40][notice]continue size:132120576 size1:199699715
+[2025-05-15 20:18:41][notice]start upload.
+[2025-05-15 20:18:41][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:126 MB
+[2025-05-15 20:18:41][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:134217728
+[2025-05-15 20:18:41][notice]continue size:134217728 size1:199699715
+[2025-05-15 20:18:42][notice]start upload.
+[2025-05-15 20:18:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:128 MB
+[2025-05-15 20:18:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:136314880
+[2025-05-15 20:18:42][notice]continue size:136314880 size1:199699715
+[2025-05-15 20:18:44][notice]start upload.
+[2025-05-15 20:18:44][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:130 MB
+[2025-05-15 20:18:44][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:138412032
+[2025-05-15 20:18:44][notice]continue size:138412032 size1:199699715
+[2025-05-15 20:18:46][notice]start upload.
+[2025-05-15 20:18:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:132 MB
+[2025-05-15 20:18:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:140509184
+[2025-05-15 20:18:46][notice]continue size:140509184 size1:199699715
+[2025-05-15 20:18:47][notice]start upload.
+[2025-05-15 20:18:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:134 MB
+[2025-05-15 20:18:47][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:142606336
+[2025-05-15 20:18:48][notice]continue size:142606336 size1:199699715
+[2025-05-15 20:18:49][notice]start upload.
+[2025-05-15 20:18:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:136 MB
+[2025-05-15 20:18:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:144703488
+[2025-05-15 20:18:49][notice]continue size:144703488 size1:199699715
+[2025-05-15 20:18:50][notice]start upload.
+[2025-05-15 20:18:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:138 MB
+[2025-05-15 20:18:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:146800640
+[2025-05-15 20:18:50][notice]continue size:146800640 size1:199699715
+[2025-05-15 20:18:52][notice]start upload.
+[2025-05-15 20:18:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:140 MB
+[2025-05-15 20:18:52][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:148897792
+[2025-05-15 20:18:52][notice]continue size:148897792 size1:199699715
+[2025-05-15 20:18:54][notice]start upload.
+[2025-05-15 20:18:54][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:142 MB
+[2025-05-15 20:18:54][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:150994944
+[2025-05-15 20:18:54][notice]continue size:150994944 size1:199699715
+[2025-05-15 20:18:56][notice]start upload.
+[2025-05-15 20:18:56][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:144 MB
+[2025-05-15 20:18:56][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:153092096
+[2025-05-15 20:18:56][notice]continue size:153092096 size1:199699715
+[2025-05-15 20:18:57][notice]start upload.
+[2025-05-15 20:18:57][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:146 MB
+[2025-05-15 20:18:57][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:155189248
+[2025-05-15 20:18:57][notice]continue size:155189248 size1:199699715
+[2025-05-15 20:18:59][notice]start upload.
+[2025-05-15 20:18:59][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:148 MB
+[2025-05-15 20:18:59][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:157286400
+[2025-05-15 20:18:59][notice]continue size:157286400 size1:199699715
+[2025-05-15 20:19:01][notice]start upload.
+[2025-05-15 20:19:01][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:150 MB
+[2025-05-15 20:19:01][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:159383552
+[2025-05-15 20:19:01][notice]continue size:159383552 size1:199699715
+[2025-05-15 20:19:03][notice]start upload.
+[2025-05-15 20:19:03][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:152 MB
+[2025-05-15 20:19:03][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:161480704
+[2025-05-15 20:19:03][notice]continue size:161480704 size1:199699715
+[2025-05-15 20:19:05][notice]start upload.
+[2025-05-15 20:19:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:154 MB
+[2025-05-15 20:19:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:163577856
+[2025-05-15 20:19:05][notice]continue size:163577856 size1:199699715
+[2025-05-15 20:19:07][notice]start upload.
+[2025-05-15 20:19:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:156 MB
+[2025-05-15 20:19:07][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:165675008
+[2025-05-15 20:19:07][notice]continue size:165675008 size1:199699715
+[2025-05-15 20:19:08][notice]start upload.
+[2025-05-15 20:19:08][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:158 MB
+[2025-05-15 20:19:08][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:167772160
+[2025-05-15 20:19:08][notice]continue size:167772160 size1:199699715
+[2025-05-15 20:19:10][notice]start upload.
+[2025-05-15 20:19:10][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:160 MB
+[2025-05-15 20:19:10][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:169869312
+[2025-05-15 20:19:10][notice]continue size:169869312 size1:199699715
+[2025-05-15 20:19:12][notice]start upload.
+[2025-05-15 20:19:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:162 MB
+[2025-05-15 20:19:12][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:171966464
+[2025-05-15 20:19:12][notice]continue size:171966464 size1:199699715
+[2025-05-15 20:19:14][notice]start upload.
+[2025-05-15 20:19:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:164 MB
+[2025-05-15 20:19:14][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:174063616
+[2025-05-15 20:19:14][notice]continue size:174063616 size1:199699715
+[2025-05-15 20:19:15][notice]start upload.
+[2025-05-15 20:19:15][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:166 MB
+[2025-05-15 20:19:15][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:176160768
+[2025-05-15 20:19:15][notice]continue size:176160768 size1:199699715
+[2025-05-15 20:19:17][notice]start upload.
+[2025-05-15 20:19:17][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:168 MB
+[2025-05-15 20:19:17][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:178257920
+[2025-05-15 20:19:17][notice]continue size:178257920 size1:199699715
+[2025-05-15 20:19:18][notice]start upload.
+[2025-05-15 20:19:18][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:170 MB
+[2025-05-15 20:19:18][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:180355072
+[2025-05-15 20:19:18][notice]continue size:180355072 size1:199699715
+[2025-05-15 20:19:20][notice]start upload.
+[2025-05-15 20:19:20][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:172 MB
+[2025-05-15 20:19:20][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:182452224
+[2025-05-15 20:19:20][notice]continue size:182452224 size1:199699715
+[2025-05-15 20:19:22][notice]start upload.
+[2025-05-15 20:19:22][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:174 MB
+[2025-05-15 20:19:22][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:184549376
+[2025-05-15 20:19:22][notice]continue size:184549376 size1:199699715
+[2025-05-15 20:19:24][notice]start upload.
+[2025-05-15 20:19:24][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:176 MB
+[2025-05-15 20:19:24][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:186646528
+[2025-05-15 20:19:24][notice]continue size:186646528 size1:199699715
+[2025-05-15 20:19:26][notice]start upload.
+[2025-05-15 20:19:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:178 MB
+[2025-05-15 20:19:26][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:188743680
+[2025-05-15 20:19:26][notice]continue size:188743680 size1:199699715
+[2025-05-15 20:19:27][notice]start upload.
+[2025-05-15 20:19:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:180 MB
+[2025-05-15 20:19:27][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:190840832
+[2025-05-15 20:19:27][notice]continue size:190840832 size1:199699715
+[2025-05-15 20:19:29][notice]start upload.
+[2025-05-15 20:19:29][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:182 MB
+[2025-05-15 20:19:29][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:192937984
+[2025-05-15 20:19:29][notice]continue size:192937984 size1:199699715
+[2025-05-15 20:19:30][notice]start upload.
+[2025-05-15 20:19:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:184 MB
+[2025-05-15 20:19:30][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:195035136
+[2025-05-15 20:19:30][notice]continue size:195035136 size1:199699715
+[2025-05-15 20:19:32][notice]start upload.
+[2025-05-15 20:19:32][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:186 MB
+[2025-05-15 20:19:32][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:197132288
+[2025-05-15 20:19:32][notice]continue size:197132288 size1:199699715
+[2025-05-15 20:19:34][notice]start upload.
+[2025-05-15 20:19:34][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:188 MB
+[2025-05-15 20:19:34][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:199229440
+[2025-05-15 20:19:34][notice]continue size:199229440 size1:199699715
+[2025-05-15 20:19:35][notice]start upload.
+[2025-05-15 20:19:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip offset:190 MB
+[2025-05-15 20:19:35][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip success size:199699715
+[2025-05-15 20:19:35][notice]rename temp file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip to new name:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part003.zip
+[2025-05-15 20:19:38][notice]start upload.
+[2025-05-15 20:19:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:0 B
+[2025-05-15 20:19:38][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:2097152
+[2025-05-15 20:19:38][notice]continue size:2097152 size1:34990763
+[2025-05-15 20:19:39][notice]start upload.
+[2025-05-15 20:19:39][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:2 MB
+[2025-05-15 20:19:39][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:4194304
+[2025-05-15 20:19:39][notice]continue size:4194304 size1:34990763
+[2025-05-15 20:19:40][notice]start upload.
+[2025-05-15 20:19:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:4 MB
+[2025-05-15 20:19:40][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:6291456
+[2025-05-15 20:19:40][notice]continue size:6291456 size1:34990763
+[2025-05-15 20:19:42][notice]start upload.
+[2025-05-15 20:19:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:6 MB
+[2025-05-15 20:19:42][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:8388608
+[2025-05-15 20:19:42][notice]continue size:8388608 size1:34990763
+[2025-05-15 20:19:44][notice]start upload.
+[2025-05-15 20:19:44][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:8 MB
+[2025-05-15 20:19:44][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:10485760
+[2025-05-15 20:19:44][notice]continue size:10485760 size1:34990763
+[2025-05-15 20:19:46][notice]start upload.
+[2025-05-15 20:19:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:10 MB
+[2025-05-15 20:19:46][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:12582912
+[2025-05-15 20:19:46][notice]continue size:12582912 size1:34990763
+[2025-05-15 20:19:48][notice]start upload.
+[2025-05-15 20:19:48][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:12 MB
+[2025-05-15 20:19:49][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:14680064
+[2025-05-15 20:19:49][notice]continue size:14680064 size1:34990763
+[2025-05-15 20:19:50][notice]start upload.
+[2025-05-15 20:19:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:14 MB
+[2025-05-15 20:19:50][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:16777216
+[2025-05-15 20:19:50][notice]continue size:16777216 size1:34990763
+[2025-05-15 20:19:51][notice]start upload.
+[2025-05-15 20:19:51][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:16 MB
+[2025-05-15 20:19:51][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:18874368
+[2025-05-15 20:19:51][notice]continue size:18874368 size1:34990763
+[2025-05-15 20:19:53][notice]start upload.
+[2025-05-15 20:19:53][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:18 MB
+[2025-05-15 20:19:53][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:20971520
+[2025-05-15 20:19:53][notice]continue size:20971520 size1:34990763
+[2025-05-15 20:19:55][notice]start upload.
+[2025-05-15 20:19:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:20 MB
+[2025-05-15 20:19:55][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:23068672
+[2025-05-15 20:19:55][notice]continue size:23068672 size1:34990763
+[2025-05-15 20:19:57][notice]start upload.
+[2025-05-15 20:19:57][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:22 MB
+[2025-05-15 20:19:57][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:25165824
+[2025-05-15 20:19:57][notice]continue size:25165824 size1:34990763
+[2025-05-15 20:19:59][notice]start upload.
+[2025-05-15 20:19:59][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:24 MB
+[2025-05-15 20:19:59][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:27262976
+[2025-05-15 20:19:59][notice]continue size:27262976 size1:34990763
+[2025-05-15 20:20:01][notice]start upload.
+[2025-05-15 20:20:01][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:26 MB
+[2025-05-15 20:20:01][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:29360128
+[2025-05-15 20:20:01][notice]continue size:29360128 size1:34990763
+[2025-05-15 20:20:02][notice]start upload.
+[2025-05-15 20:20:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:28 MB
+[2025-05-15 20:20:02][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:31457280
+[2025-05-15 20:20:02][notice]continue size:31457280 size1:34990763
+[2025-05-15 20:20:05][notice]start upload.
+[2025-05-15 20:20:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:30 MB
+[2025-05-15 20:20:05][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:33554432
+[2025-05-15 20:20:05][notice]continue size:33554432 size1:34990763
+[2025-05-15 20:20:06][notice]start upload.
+[2025-05-15 20:20:06][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip offset:32 MB
+[2025-05-15 20:20:06][notice]Write file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip success size:34990763
+[2025-05-15 20:20:06][notice]rename temp file:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid_temp-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip to new name:/dom142035/wp-content/wpvividbackups/hitofficial.com_wpvivid-3116ac1a1504c_2025-05-15-20-11_backup_all.part004.zip
+[2025-05-15 20:20:07][notice]upload finished

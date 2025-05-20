@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: Ceremony were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://hitofficial.com
+Data file = /home/u101015616/domains/hitofficial.com/public_html/wp-content/uploads/2025/01/demo-content-import-file_2025-01-09__11-40-20.xml
+Widget file = /home/u101015616/domains/hitofficial.com/public_html/wp-content/uploads/2025/01/demo-widgets-import-file_2025-01-09__11-40-20.json
+Customizer file = /home/u101015616/domains/hitofficial.com/public_html/wp-content/uploads/2025/01/demo-customizer-import-file_2025-01-09__11-40-20.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2024-06-21__06-03-51" (Media)
+[ERROR] Failed to import "placeholder.png" (Media)
+
+
+---Importing widgets---
+Main Widget Area : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+Ceremony: Latest Posts - Recent Posts - Imported
+Tag Cloud - Popular Tags - Imported
+
+Footer Widget 1 : 
+
+Ceremony: Text Widget - No Title - Imported
+
+Footer Widget 2 : 
+
+tp_widget_recent_tweets - Latest Tweets - Site does not support widget
+
+Footer Widget 3 : 
+
+meks_instagram - Instagram - Site does not support widget
+
+Footer Widget 4 : 
+
+Ceremony: Text Widget - Newsletter - Imported
+
+Shop Widget : 
+
+Search - No Title - Imported
+Product Categories - Categories - Imported
+Filter Products by Price - Filter by price - Imported
+Products list - Featured Products - Imported
+Tag Cloud - No Title - Imported
+
+Event Sidebar : 
+
+Search - No Title - Imported
+tribe-events-list-widget - Upcoming Events - Site does not support widget
+
+
+
+------
+Codestar Framework files loaded.
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
